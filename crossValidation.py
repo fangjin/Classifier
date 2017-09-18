@@ -3,7 +3,8 @@ import numpy as np
 import random
 import json
 import sys
-# Rachel 
+__author__      = "Fang Jin"
+__copyright__ = "Copyright 2015"
 
 #1: climate, 0: non-climate
 def resultsAnalyzer(realList, estimationList):
